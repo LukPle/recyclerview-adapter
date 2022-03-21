@@ -9,7 +9,9 @@ This way of creatig and populating a list is the recommended way for Android. Th
 
 ## Features
 The setting for this example is a shopping list. An ArrayList contains different items that need to be purchased. The items have a name and quantity.
-The user can scroll trough the list displayed on the screen.
+The user can scroll trough the list displayed on the screen. </br>
+
+![](demo_pictures/Screen1.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
